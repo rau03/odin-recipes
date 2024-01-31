@@ -7,4 +7,3 @@ The projoct will consist of:
 
 This project is help build HTML knowledge. I'll come back to spice it up with some CSS later in the course. 
 
-
